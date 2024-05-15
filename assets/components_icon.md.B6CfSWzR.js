@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as o}from"./chunks/framework.T3j_ER5i.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"components/icon.md","filePath":"components/icon.md","lastUpdated":1703647854000}'),n={name:"components/icon.md"};function a(c,s,r,p,i,d){return t(),o("div")}const f=e(n,[["render",a]]);export{_ as __pageData,f as default};
